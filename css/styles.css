@@ -1,0 +1,10 @@
+body {
+  background-color: #e7e7db;
+  color: #7b7d78;
+  font-weight: 700;
+  background-image: url('../img/columns.jpg');
+  background-position: bottom;
+  background-repeat: repeat-x;
+  background-size: contain;
+  height: -webkit-fill-available;
+}
