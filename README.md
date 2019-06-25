@@ -1,37 +1,51 @@
-# _{Application Name}_
+# _Journal_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _Week 5, 21 June 2019_
 
-#### By _**{List of contributors}**_
+#### By _**Hannah Melendy & Lake Bramlett**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_'Journal' is a client-side program allows the user to type and log journal entries. This is a demonstration of proficiency in NPM, webpack, and object-oriented JavaScript._
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _Clone {insert repo here} repo locally_
+* _Open up index.html in preferred web browser or equivalent software_
+* _Use preferred text editor to edit_
+* _Make any pull requests to {insert repo here} ._
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+## Specs
+| Spec        | Input           | Output  |
+| ------------- |:-------------:| -----:|
+| Program returns nothing when non-numerical value is inputted | "a" | ""
+| Program returns single character roman numerals based on user input | 100 | "C" |
+| Program returns multi character additive roman numerals based on user input | 25 | "XXV"
+| Program returns multi character subtractive roman numerals based on user input | 90 | "XC" |
+| Program returns multi character additive and subtractive roman numerals based on user input | 1549 | "MDXLIX" |
+
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_There are no known bugs at this time (24 June 2019)._
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_email: {insert email(s) here}_
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+* _HTML_
+* _CSS_
+* _JavaScript_
+* _jQuery_
+* _Bootstrap_
+* _Git_
+* _NPM_
+* _Webpack_
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*This software is licensed under the MIT license.*
 
-Copyright (c) 2019 **_{List of contributors or company name}_**
+Copyright (c) 2019 **Mike Lofgren and Lake Bramlett_**
